@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues).
 
+created app with
+
+``` ps1
+npx create next-app -e reproduction-template
+```
+
 ## Getting Started
 
 These are the steps you should follow when creating a bug report:
